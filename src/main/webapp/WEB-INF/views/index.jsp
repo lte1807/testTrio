@@ -30,6 +30,7 @@
 	</c:choose>
 </ul>
 </div>
+<h1>freshman update</h1>
 <h3>freshman branchdkdkdk</h3>
 <h1>freshman branch</h1>
 <br>	
