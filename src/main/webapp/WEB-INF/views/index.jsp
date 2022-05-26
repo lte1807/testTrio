@@ -30,7 +30,6 @@
 	</c:choose>
 </ul>
 </div>
-<h1>git hub test 수정</h1>
 <br>	
 <%@ include file="layout/footer.jsp" %>
 
